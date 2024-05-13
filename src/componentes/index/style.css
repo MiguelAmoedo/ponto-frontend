@@ -1,0 +1,19 @@
+.tabela-patrulha {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .tabela-patrulha th, .tabela-patrulha td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .linha-clara {
+    background-color: #f2f2f2;
+  }
+  
+  .linha-escura {
+    background-color: #e6e6e6;
+  }
+  

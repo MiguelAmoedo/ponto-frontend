@@ -1,0 +1,35 @@
+/* Estilos para o componente Patentes */
+.patentes-container {
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+/* Estilos para as tabelas */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+table th,
+table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+table th {
+  background-color: #F62B2F;
+  color: white;
+}
+
+table tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+/* Estilos para os títulos das seções */
+h2 {
+  color: #2d74da;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}

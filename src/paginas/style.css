@@ -1,0 +1,47 @@
+.bg-gradient {
+  background: linear-gradient(225deg, #8a3ab9, #6b22aa);
+  min-height: 100vh;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.logo {
+  width: 150px;
+  height: auto;
+}
+
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  padding: 50px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.input-field {
+  border-radius: 5px;
+}
+
+.btn-purple {
+  background-color: #8a3ab9;
+  border-color: #8a3ab9;
+  margin-top: 20px;
+}
+
+.btn-purple:hover {
+  background-color: #6b22aa;
+  border-color: #6b22aa;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 2.5rem;
+}

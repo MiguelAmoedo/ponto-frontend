@@ -1,0 +1,8 @@
+.box-direction {
+    display: flex;
+}
+
+.bg-color {
+    background-color: red;
+    width: 10rem;
+}
