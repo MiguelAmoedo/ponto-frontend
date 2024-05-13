@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const apiUrl = "localhost:5000";
+const apiUrl = "https://api-sistema-ponto.vercel.app/";
 
 console.log(apiUrl)
 var ClienteServices = {
