@@ -1,7 +1,7 @@
 // services/PontoService.js
 import axios from "axios";
 
-const apiUrl = "https://api-sistema-ponto.vercel.app/";
+const apiUrl = "https://api-sistema-ponto.vercel.app";
 
 const PontoService = {
   abrirPonto: async (id) => {
